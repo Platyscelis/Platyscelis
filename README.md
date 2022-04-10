@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Platyscelis
 - 👀 I’m interested in Java and JS programming
 - 🌱 I’m currently learning on Java Rush
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking for job
 - 📫 How to reach me 
 - mail: platyscelis1@icloud.com
 
